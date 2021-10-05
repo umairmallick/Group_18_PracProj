@@ -5,6 +5,8 @@ public class FirstProgram {
 
         // just more text
 
+        //great job, everyone!
+
         // looks good
     }
 }
